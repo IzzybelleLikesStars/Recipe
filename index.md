@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yummy Recipes</title>
+<meta charset="UTF-8" />
+</head>
 
-You can use the [editor on GitHub](https://github.com/IzzybelleLikesStars/Recipe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body style= "background-color:#C0D8EC;">
+<h1 style= "color:#DEA168;font-family: Georgia;padding: 24x;">Chicken Alfredo Pasta</h1>
+<h2 style="color:#DEA168;font-family:Georgia;" >Ingredients</h2>
+<h3 style="color:#DEA168;font-family:Georgia;" >for 6 servings</h3>
+<ul style="list-style-type:circle;color:#FEFEE3;">
+<li>1 <sup>1/2</sup> lb chicken breast, cubed</li>
+<li>2 tablespoon of butter</li>
+<li>1/2 teaspoon dried oregano</li>
+<li>1/2 teaspoon dried basil</li>
+<li>1/2 teaspoon salt</li>
+<li>1/2 teaspoon pepper</li>
+<li>16 oz penne pasta, cooked</li>
+<li>1/4 cup fresh parsley</li>
+<li>1/4 cup shredded parmesan cheese</li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2 style="color:#DEA168;font-family:Georgia;" >Sauce indredients</h2>
+<ul style="list-style-type:circle;color:#FEFEE3;">
+<li>2 tablespoon butter</li>
+<li>4 cloves garlic, minced</li>
+<li>3 tablespoon flour</li>
+<li>2 cups milk</li>
+<li>1/2 teaspoon dried basil</li>
+<li>1/2 cup shredded parmesan cheese</li>
+<li>1/2 teaspoon salt</li>
+<li>1/2 teaspoon pepper</li>
+</ul>
 
-### Markdown
+<h2 style="color:#DEA168;font-family:Georgia;" >Directions</h2>
+<ol style="color:#FEFEE3;">
+<li>In a pan over medium-hugh heat, melt butter then add the chicken breast</li>
+<li>Season with salt, pepper, oregano, and basil. Cook 8-10 minutes or until chicken is fully cooked.
+Remove from heat and set chicken aside.</li>
+<li>In the same pan over medium heat, melt butter and add the garlic. Cook until the garlic begins to soften</li>
+<li>Add half of the flour to the garlic and butter, strring until incorporated. Then add the rest
+of the flour and stir</li>
+<li>Pur in the milk a little bit at a time, stirring well in between, until fully incorporated and 
+sauce begins to thicken</li>
+<li>Season with salt, pepper, oregano, and basil, and stir well to incorporate</li>
+<li>Add parmesan cheese and stir until melted</li>
+<li>Pour the sauce over cooked penne pasta, add the chicken and mix well</li>
+<li>Add parsely and extra parmesan. Mix well</li>
+<li>Enjoy your scrumptious meal!</li>
+</ol>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IzzybelleLikesStars/Recipe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr style="background-color: #FEFEE3; border-color: #FEFEE3; height: 2px;">
+<p style="color:#FEFEE3;"><em>Page created by Isabel Vasquez &copy:2022 </em></p>
+</body>
+</html>
