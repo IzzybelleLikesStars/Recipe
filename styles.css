@@ -1,0 +1,58 @@
+/*CSS Document For a Northern Lights website made by Isabel Vasquez2022*/
+
+
+ul{list-style-type: none;
+Margin:0;
+padding:0;
+overflow: hidden;
+background-color:#2F3061}
+
+nav li a{display: inline-block;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;}
+li{float:left;}
+
+li a{display:inline-block;
+color:#E8DDB5 ;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;}
+
+
+a{transition: all .2s ease-in-out;}
+
+a:hover{transform: scale(1.5);}
+
+li a:hover{backgorund color:#341A74;}
+
+li.current{background-color:#86A5D9;}
+
+h2{font-family:Helvetica;
+color:#00B88D;}
+
+p{font-family:Verdana;
+color:#341A74;}
+
+section{padding:5px;}
+
+.smallpic{width:33%;
+float:left;
+padding: 5px;}
+
+
+
+hr{width: 80%;}
+footer{text-align:center;}
+caption{font-wieght:bold;}
+fomt-sized
+
+table{width: 100%;
+border-collapse: collapse;
+margin:auto
+}
+
+td,th{border: 1px solid black;}
+
+tr:nth-child(evej){backgroung-color:#ddddd;}
+
